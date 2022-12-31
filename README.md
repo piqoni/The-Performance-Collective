@@ -1,6 +1,6 @@
 # The Performance Collective
 
-Despite amazing hardware advances, software continues to be [slow](https://tonsky.me/blog/disenchantment/). It is somehow acceptable for software to be slow and still widely used (Jira Next-Gen comes to mind). [We dont want fast software to become a lost art](https://www.youtube.com/watch?v=pW-SOdj4Kkk). 
+Despite amazing hardware advances, software continues to be [slow](https://tonsky.me/blog/disenchantment/). It is somehow acceptable for software to be slow and still widely used. [We dont want fast software to become a lost art](https://www.youtube.com/watch?v=pW-SOdj4Kkk). 
 
 The Performance Collective is committed to curate and promote software that is instant and high-performant. We believe that fast software is essential for providing a seamless and enjoyable user experience, and we will promote products that meet this standard.
 
