@@ -14,10 +14,14 @@ Rules for a product to enter the Club:
 
 How to add a product: 
  - Create a Pull request and propose any product you believe it fulfills the requirements. Feel free to propose new categories if you dont find the appropriate category. 
+
+
+## Project Management 
+- [Linear.app](https://linear.app/) Linear streamlines issues, sprints, and product roadmaps. It’s the new standard for modern software development. "Built for speed with 50ms interactions and real-time sync."
  
  ## Text Editors
  - [Lite-XL](https://lite-xl.com/) A lightweight, simple, fast, feature-filled, and extremely extensible text editor written in C, and Lua, adapted from lite.
  - [Sublime Text](https://www.sublimetext.com/) is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
 
-## Project Management 
-- [Linear.app](https://linear.app/) Linear streamlines issues, sprints, and product roadmaps. It’s the new standard for modern software development. "Built for speed with 50ms interactions and real-time sync."
+## Version Control
+- [Sublime Merge](https://www.sublimemerge.com/) Git GUI Client for Mac, Windows and Linux, from the makers of Sublime Text. Line-by-line Staging. Commit Editing. Unmatched Performance.
