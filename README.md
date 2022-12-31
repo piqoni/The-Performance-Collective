@@ -1,4 +1,4 @@
-# Instant Software Club: Promoting Fast Software
+# Instant Software Club
 
 Despite amazing hardware advances, software continues to be [slow](https://tonsky.me/blog/disenchantment/). It is somehow acceptable for software to be slow and still widely used (Jira Next-Gen comes to mind). [We dont want fast software to become a lost art](https://www.youtube.com/watch?v=pW-SOdj4Kkk). 
 
