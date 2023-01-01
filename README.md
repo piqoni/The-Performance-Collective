@@ -13,7 +13,7 @@ Rules for a product to enter the Club:
 3. Simplicity is key: Fast software should be intuitive and easy to use, with a clear and straightforward interface.
 
 How to add a product: 
- - Create a Pull request and propose any product you believe it fulfills the requirements. Feel free to propose new categories if you dont find the appropriate category. 
+ - Create a Pull request and propose any well-established product you believe it fulfills the requirements. Feel free to propose new categories if you dont find the appropriate category. 
 
 
 ## Project Management 
