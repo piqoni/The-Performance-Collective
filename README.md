@@ -15,6 +15,8 @@ Rules for a product to enter the Club:
 How to add a product: 
  - Create a Pull request and propose any well-established product you believe it fulfills the requirements. Feel free to propose new categories if you dont find the appropriate category. 
 
+## Digital Art
+- [Aseprite](https://www.aseprite.org/) is a proprietary, source-available image editor designed primarily for pixel art drawing and animation. 
 
 ## Project Management 
 ### Web Category
