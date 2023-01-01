@@ -18,7 +18,7 @@ How to add a product:
 ## Digital Art
 - [Aseprite](https://www.aseprite.org/) is a proprietary, source-available image editor designed primarily for pixel art drawing and animation. 
 
-## Project Management 
+## Project Management / Issue Tracking
 ##### Web Category
 - [Linear.app](https://linear.app/) Linear streamlines issues, sprints, and product roadmaps. It’s the new standard for modern software development. "Built for speed with 50ms interactions and real-time sync."
  
