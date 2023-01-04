@@ -21,7 +21,10 @@ How to add a product:
 ## Project Management / Issue Tracking
 ##### Web Category
 - [Linear.app](https://linear.app/) Linear streamlines issues, sprints, and product roadmaps. It’s the new standard for modern software development. "Built for speed with 50ms interactions and real-time sync."
- 
+- 
+ ## Note Keeping 
+- [nv](https://notational.net/) NOTATIONAL VELOCITY is an application that stores and retrieves notes.
+
  ## Text Editors
  - [Lite-XL](https://lite-xl.com/) A lightweight, simple, fast, feature-filled, and extremely extensible text editor written in C, and Lua, adapted from lite.
  - [Sublime Text](https://www.sublimetext.com/) is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
