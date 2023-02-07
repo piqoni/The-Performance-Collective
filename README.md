@@ -30,4 +30,5 @@ How to add a product:
  - [Sublime Text](https://www.sublimetext.com/) is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
 
 ## Version Control
+- [git](https://git-scm.com/) Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 - [Sublime Merge](https://www.sublimemerge.com/) Git GUI Client for Mac, Windows and Linux, from the makers of Sublime Text. Line-by-line Staging. Commit Editing. Unmatched Performance.
