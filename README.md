@@ -21,7 +21,7 @@ How to add a product:
 ## Project Management / Issue Tracking
 ##### Web Category
 - [Linear.app](https://linear.app/) Linear streamlines issues, sprints, and product roadmaps. It’s the new standard for modern software development. "Built for speed with 50ms interactions and real-time sync."
-- 
+
  ## Note Keeping 
 - [nv](https://notational.net/) NOTATIONAL VELOCITY is an application that stores and retrieves notes.
 
