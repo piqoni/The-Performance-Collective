@@ -28,6 +28,7 @@ How to add a product:
  ## Text Editors
  - [Lite-XL](https://lite-xl.com/) A lightweight, simple, fast, feature-filled, and extremely extensible text editor written in C, and Lua, adapted from lite.
  - [Sublime Text](https://www.sublimetext.com/) is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance.
+ - [Zed](https://zed.dev) is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 
 ## Version Control
 - [git](https://git-scm.com/) Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
